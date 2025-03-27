@@ -1,4 +1,4 @@
-# FAQ Chatbot using CrewAI
+# FAQ Chatbot using Natural language processing (NLP)
 
 This project implements a chatbot that can answer frequently asked questions (FAQs) using natural language processing techniques and CrewAI framework.
 
