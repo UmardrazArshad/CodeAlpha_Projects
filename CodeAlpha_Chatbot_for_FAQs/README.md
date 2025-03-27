@@ -2,6 +2,7 @@
 
 This project implements a chatbot that can answer frequently asked questions (FAQs) using natural language processing techniques and CrewAI framework.
 
+[linkdin video explanation post link :](https://www.linkedin.com/posts/umardraz-arshad_ai-chatbot-crewai-activity-7310887372974383104-BeJr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEX_MEIB5y71hScvBF0VtgoGRKjM39WdibY)
 ## Features
 
 - Natural language understanding using NLTK and SpaCy
