@@ -1,5 +1,5 @@
 # CodeAlpha internship projects 
-## 1. CodeAlpha_language_translation_tool
+## 1. CodeAlpha_language_translation_tool 🛠
 **The CodeAlpha Language Translation Tool** is a Python-based application that allows users to translate text between different languages using the **Google Translator API**. It supports auto-detection of the source language and provides a simple command-line interface for user interaction.
 
 ## 2. CodeAlpha_Chatbot_for_FAQs 🤖
