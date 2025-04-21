@@ -6,5 +6,5 @@
 **FAQ Chatbot using Natural language processing (NLP)**
 This project implements a chatbot that can answer frequently asked questions (FAQs) using natural language processing techniques and **CrewAI framework.**
 ## 3. CodeAlpha_Music_Generation_with_AI🎹🎵
-An **AI-powered music generation system using LSTM-based RNNs** to compose original melodies from MIDI data.
+An **AI-powered music generation system using LSTM-based RNNs** to compose original melodies from MIDI data.\n
 ![Certificate](https://github.com/UmardrazArshad/CodeAlpha_Projects/blob/main/Umardraz%20Arshad.pdf)
